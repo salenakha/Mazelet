@@ -5,8 +5,8 @@ A Java-based maze game where you navigate through a randomly generated maze, col
 ## How to Run
 
 ```bash
-javac -d bin src/main/java/darkmaze/*.java
-java -cp bin darkmaze.Maze
+javac -d bin src/main/java/mazelet/*.java
+java -cp bin mazelet.Maze
 ```
 
 ## Controls
